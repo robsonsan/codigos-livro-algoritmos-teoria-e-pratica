@@ -1,0 +1,6 @@
+node_modules
+.vscode
+out
+teste2.js
+.editorconfig
+lixo.ts
